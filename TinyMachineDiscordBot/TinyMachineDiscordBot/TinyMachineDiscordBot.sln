@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyMachineDiscordBot", "TinyMachineDiscordBot\TinyMachineDiscordBot.csproj", "{2D5184DC-6580-4319-9458-9E2E1ED32ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5184DC-6580-4319-9458-9E2E1ED32ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5184DC-6580-4319-9458-9E2E1ED32ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5184DC-6580-4319-9458-9E2E1ED32ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5184DC-6580-4319-9458-9E2E1ED32ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C50B7E63-D137-4B6D-8E58-B01AA6A491A6}
+	EndGlobalSection
+EndGlobal
